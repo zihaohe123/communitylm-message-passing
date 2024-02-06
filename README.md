@@ -1,5 +1,5 @@
 # Deciphering Ideological Stances of Interconnected Mixed-Ideology Communities
-This repo is the implementation of our [paper](www.google.com) "Reading Between the Tweets: Deciphering Ideological Stances of Interconnected Mixed-Ideology Communities", where we propose a method to adapt language models to the ideologies of interconnected mixed-ideology communities.
+This repo is the implementation of our [paper](https://arxiv.org/abs/2402.01091) "Reading Between the Tweets: Deciphering Ideological Stances of Interconnected Mixed-Ideology Communities", where we propose a method to adapt language models to the ideologies of interconnected mixed-ideology communities.
 
 
 ## Message Between Community Corpora

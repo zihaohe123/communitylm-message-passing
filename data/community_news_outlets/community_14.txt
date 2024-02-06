@@ -1,0 +1,1 @@
+'axios', 'warroom.org', 'bostonherald', 'ajc', 'minnesota.cbslocal', 'kare11', 'king5', 'khou', 'on.cfr.org', 'fox4news', 'pix11', 'boston25news', 'miami.cbslocal', 'wistv', 'voiceofsandiego.org', 'westchester.news12', 'localsyr', '13abc', 'whas11', 'vancouversun'

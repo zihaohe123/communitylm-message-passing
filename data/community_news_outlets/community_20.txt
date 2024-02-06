@@ -1,0 +1,1 @@
+'miamiherald', 'reviewjournal', 'ktla', 'kvue', 'on.ktla', 'news3lv', '4.nbcla'

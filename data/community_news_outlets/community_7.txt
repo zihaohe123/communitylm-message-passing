@@ -1,0 +1,1 @@
+'cnn', 'politico.eu', 'irishtimes', 'baltimoresun', 'ccn', 'weather', 'clickondetroit', 'Vox', 'secondnexus', 'thedenverchannel', 'news5cleveland', 'abc15', 'poynter.org', '10news', 'kvia', 'theprint.in', 'wvtm13', 'channel3000', 'newshub.co.nz', 'tallahassee', 'wate', 'itv', 'krem', 'stlamerican', 'enapp.chinadaily.cn'

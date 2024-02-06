@@ -1,0 +1,1 @@
+'reason', 'detroitnews', 'freep', 'statnews', 'mlive', 'techcrunch', 'nbcbayarea', 'politicalwire', 'crainsdetroit', 'wxyz', 'torontosun', 'fiercepharma', 'wcvb', 'news.bloomberglaw', 'nbcsandiego', 'fox5dc', 'bridgemi', 'wwmt', 'lohud', 'votebluenews', 'thenextweb', 'sciencenews.org', 'cbs46', 'wlwt', 'kbtx', 'fox43', 'on.necn'

@@ -1,0 +1,1 @@
+'apple.news', 'sun-sentinel', 'seattletimes', 'local10', 'Salon', '808ne.ws', 'Alternet.org', 'ksl', 'kutv', 'm.sfgate', 'rte.ie', 'wxii12', 'wsls'

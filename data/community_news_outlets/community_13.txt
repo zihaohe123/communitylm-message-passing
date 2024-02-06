@@ -1,0 +1,1 @@
+'dailymail.co.uk', 'spectator.us', 'mercurynews', 'thewrap', 'nejm.org', 'dailym.ai', 'wjla', 'checkyourfact', 'news4jax', 'amp.scmp', 'theconservativeopinion', 'buffalonews', 'hub.jhu.edu', 'wtop', 'ch7.io', 'kuow.org', 'opb.org', 'nbcmiami', 'thehindu', 'yourcentralvalley', 'wsvn', 'ky3', 'thejakartapost', 'wkyt', 'abcactionnews', 'berkeleyside'

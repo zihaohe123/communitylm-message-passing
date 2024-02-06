@@ -1,0 +1,1 @@
+'cnbc', 'nj', 'abc.net.au', 'kansascity', 'mcall', 'pluralist', 'fox8', 'standard.co.uk', 'uk.reuters', 'newjersey.news12', 'kdvr', 'philadelphia.cbslocal', 'losangeles.cbslocal', 'zdnet', 'cnbc', 'hongkongfp', 'realmoney.thestreet', 'wect', 'news.rthk.hk'

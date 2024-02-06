@@ -1,0 +1,1 @@
+'citylab', 'cbs7', 'thestreet', 'palmbeachpost', 'houstonchronicle', 'expressnews', 'fox9', 'laist', 'wpbf'

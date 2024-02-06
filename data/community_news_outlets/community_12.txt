@@ -1,0 +1,1 @@
+'abcn.ws', 'reut.rs', 'bbc.co.uk', 'sacbee', 'azcentral', 'oregonlive', 'jsonline', 'p.dw', 'azfamily', 'northjersey', 'longisland.news12', '12news', 'turnto10', '11alive', 'businessinsider.au', 'fox29', 'katu', '9news.au', 'wcnc', 'infographics.channelnewsasia', 'cbc.ca'

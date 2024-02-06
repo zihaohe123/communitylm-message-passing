@@ -1,0 +1,1 @@
+'politi.co', 'tampabay', 'calmatters.org', 'fox5ny', 'americamagazine.org', 'wfmynews2'

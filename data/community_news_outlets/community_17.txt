@@ -1,0 +1,1 @@
+'news.yahoo', 'christianpost', 'sfgate', 'taskandpurpose', 'mashable', 'kron4', 'fox26houston', 'ndtv', 'ibtimes.sg', 'pittsburgh.cbslocal', 'sacramento.cbslocal', 'ottawacitizen', 'asiatimes', 'mainichi.jp'

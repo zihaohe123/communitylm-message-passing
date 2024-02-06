@@ -1,0 +1,1 @@
+'cbsnews', 'hollywoodreporter', 'postandcourier', 'modernhealthcare', 'the-sun', 'medpagetoday', 'contagionlive', 'spectrumlocalnews', 'wfmz', 'fox35orlando', 'dnyuz', 'bloombergquint'

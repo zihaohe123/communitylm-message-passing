@@ -59,12 +59,11 @@ python run_comm_sp_target_ranking.py
 
 ## Citation
 ```bibtex
-@misc{he2024reading,
-      title={Reading Between the Tweets: Deciphering Ideological Stances of Interconnected Mixed-Ideology Communities}, 
-      author={Zihao He and Ashwin Rao and Siyi Guo and Negar Mokhberian and Kristina Lerman},
-      year={2024},
-      eprint={2402.01091},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{he2024reading,
+  title={Reading Between the Tweets: Deciphering Ideological Stances of Interconnected Mixed-Ideology Communities},
+  author={He, Zihao and Rao, Ashwin and Guo, Siyi and Mokhberian, Negar and Lerman, Kristina},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2024},
+  pages={1523--1536},
+  year={2024}
 }
 ```
